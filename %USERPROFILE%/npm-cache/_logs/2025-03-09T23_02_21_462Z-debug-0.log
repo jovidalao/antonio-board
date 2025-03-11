@@ -1,0 +1,22 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_global\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.1.0
+2 info using node@v22.13.0
+3 silly config load:file:C:\Program Files\nodejs\node_global\node_modules\npm\npmrc
+4 silly config load:file:D:\Code\Antonio\miro\antonio-board\.npmrc
+5 silly config load:file:C:\Users\wwjov\.npmrc
+6 silly config load:file:C:\Program Files\nodejs\node_global\etc\npmrc
+7 verbose title npm exec shadcn@latest add button
+8 verbose argv "exec" "--" "shadcn@latest" "add" "button"
+9 verbose logfile logs-max:10 dir:D:\Code\Antonio\miro\antonio-board\%USERPROFILE%\npm-cache\_logs\2025-03-09T23_02_21_462Z-
+10 verbose logfile D:\Code\Antonio\miro\antonio-board\%USERPROFILE%\npm-cache\_logs\2025-03-09T23_02_21_462Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 http fetch GET 200 https://registry.npmjs.org/shadcn 164ms (cache updated)
+14 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+15 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+16 verbose cwd D:\Code\Antonio\miro\antonio-board
+17 verbose os Windows_NT 10.0.22631
+18 verbose node v22.13.0
+19 verbose npm  v11.1.0
+20 verbose exit 0
+21 info ok
